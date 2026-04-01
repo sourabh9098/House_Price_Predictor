@@ -81,7 +81,7 @@ I am a machine learning enthusiast who believes a model that can be deployed and
 
 - Live Link - https://housepricepredictor-bysourabh.streamlit.app/
 - GitHub: [your-username](https://github.com/sourabh9098)
-- LinkedIn: [your-linkedin](www.linkedin.com/in/sourabh9098)
+- LinkedIn: [your-linkedin](www.linkedin.com/in/sourabh-vishwakarma-8a563023b)
 
 
 *Built with care. Not just code.*
