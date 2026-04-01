@@ -77,4 +77,11 @@ Ridge Regression also deserves more respect than it gets. When the data is clean
 I am a machine learning enthusiast who believes a model that can be deployed and understood is worth more than one that just scores well in a notebook. I built every part of this myself — from data cleaning to the Streamlit interface. I care about the full picture, not just the accuracy number.
 
 
+## Contact
+
+- Live Link - https://housepricepredictor-bysourabh.streamlit.app/
+- GitHub: [your-username](https://github.com/sourabh9098)
+- LinkedIn: [your-linkedin](www.linkedin.com/in/sourabh9098)
+
+
 *Built with care. Not just code.*
