@@ -2,15 +2,13 @@
 
 This project made me realize how much goes into building something that actually works. It is not just about writing a model. It is about understanding the data, making honest decisions, and building something you can stand behind.
 
----
 
 ## What This Project Does
 
 Predicts the sale price of a house based on real property details — the size of the living area, construction quality, garage capacity, and neighborhood. You enter the details, the model gives you an estimated price.
 
-The goal was simple: build something accurate, explainable, and usable by a real person — not just a notebook that scores well on a metric and never gets opened again.
+The goal was simple: build something accurate, explainable, and usable by a real person — not just a notebook that scores well on a metric and never gets opened again
 
----
 
 ## The Dataset
 
@@ -62,8 +60,6 @@ The model shows good generalization .
 The model generalizes well across different neighborhoods and house types. It is not perfect — no house price model ever is — but it is honest about what it knows.
 
 
----
-
 ## What I Learned
 
 I started thinking the modeling part would be the hardest. It was not. The hard part was deciding which features to keep, handling neighborhoods with very few data points, and building a UI that a non-technical person could use without getting confused.
@@ -74,8 +70,7 @@ Ridge Regression also deserves more respect than it gets. When the data is clean
 
 ## About Me
 
-I am a machine learning enthusiast who believes a model that can be deployed and understood is worth more than one that just scores well in a notebook. I built every part of this myself — from data cleaning to the Streamlit interface. I care about the full picture, not just the accuracy number.
-
+I am a machine learning enthusiast who believes a model that can be deployed and understood is worth more than one that just scores well in a notebook. I built every part of this myself — from data cleaning to the Streamlit interface. I care about the full picture, not just the accuracy number
 
 ## Contact
 
@@ -84,4 +79,4 @@ I am a machine learning enthusiast who believes a model that can be deployed and
 - LinkedIn: [your-linkedin](www.linkedin.com/in/sourabh-vishwakarma-8a563023b)
 
 
-*Built with care. Not just code.*
+## Built with care. Not just code
